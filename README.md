@@ -38,7 +38,7 @@ It includes all key sections of an e-commerce site such as **product listings, s
 |------|-----------|------|----------|------------|
 | ![Home](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/home%20page.png) | ![Products](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/product%20page.png) | ![Cart](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/cart%20page.png) | ![Payment](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/payment%20page.png) | ![Thank You](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/Thank%20you%20page.png) |
 
-> 💡 Export your Figma frames as `.png` files and save them inside a `/designs` folder in your GitHub repo.
+
 
 ---
 
