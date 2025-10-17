@@ -36,7 +36,7 @@ It includes all key sections of an e-commerce site such as **product listings, s
 
 | Home | Products | Cart | Payment | Thank You |
 |------|-----------|------|----------|------------|
-| ![Home](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/home%20page.png) | ![Products](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/product%20page.png) | ![Cart](designs/cart.png) | ![Payment](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/payment%20page.png) | ![Thank You](designs/thankyou.png) |
+| ![Home](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/home%20page.png) | ![Products](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/product%20page.png) | ![Cart](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/cart%20page.png) | ![Payment](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/payment%20page.png) | ![Thank You](https://github.com/Haritha-KV/Furniture-E-Commerce-Website-Figma-Design/blob/main/Thank%20you%20page.png) |
 
 > 💡 Export your Figma frames as `.png` files and save them inside a `/designs` folder in your GitHub repo.
 
@@ -44,7 +44,6 @@ It includes all key sections of an e-commerce site such as **product listings, s
 
 ## 🔗 Live Figma Link
 👉 [View Full Figma Design](https://www.figma.com/design/fCoFr0z5xtvDcTW7C6058f/Furniture-web-site?node-id=0-1&m=dev&t=UjfAkwjjlXjm3yiQ-1)  
-*(Replace with your actual Figma share URL)*
 
 ---
 
